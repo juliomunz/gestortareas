@@ -1,0 +1,22 @@
+# Maven output
+# target/
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# Archivos y carpetas comunes de IDEs
+.idea/
+.vscode/
+*.iml
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitignore
